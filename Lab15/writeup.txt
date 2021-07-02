@@ -1,0 +1,1 @@
+The implementation that we used was to change the angle that the bot was moving at by 1 degree every time it runs into a wall. This in theory should allow the bot to touch all the tiles of the arena. The bot starts to use powerups after there are 20 tiles left just to make sure majority of tiles can be painted before it starts using paint buckets to use a power up.
